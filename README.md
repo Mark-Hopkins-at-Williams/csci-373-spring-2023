@@ -89,46 +89,42 @@ After successful completion of the course, a student should:
 
 | Date         | Topic                          | Reading (AIMA 4th edition)         |
 | ------------ | ---------------------------    | ---------------------------------- |
-| Fri Sep 9    | course intro                   |                                    |
-| Mon Sep 12   | search spaces                  | 3.1, 3.2, 3.3.1 - 3.3.3            |
-| Wed Sep 14   | breadth-first search           | 3.4.1                              |
-| Fri Sep 16   | UCS and DFS                    | 3.4.2, 3.4.3                       |
-| Mon Sep 19   | analysis of search             | 3.3.4                              |
-| Wed Sep 21   | iterative deepening            | 3.4.4                              |
-| Fri Sep 23   | minimax                        | 5.1, 5.2, 5.3                      |
-| Mon Sep 26   | expectimax                     | 5.5                                |
-| Wed Sep 28   | heuristic search               | 3.5.1, 3.5.2                       |
-| Fri Sep 30   | heuristics                     | 3.6                                |
-| Mon Oct 3    | exam 1                         |                                    |
-| Wed Oct 5    | exam 1 review                  |                                    |
-| Fri Oct 7    | mountain day?                  |                                    |
-| Mon Oct 10   | reading period                 |                                    |
-| Wed Oct 12   | probability                    | 12.1 - 12.5                        |
-| Fri Oct 14   | bayesian networks              | 13.1, 13.2.1, 13.2.2, 13.2.4       |
-| Mon Oct 17   | variable elimination           | 13.3.1, 13.3.2                     |
-| Wed Oct 19   | complexity of inference        | 13.3.3                             |
-| Fri Oct 21   | approximate inference          | TBD                                |
-| Mon Oct 24   | gaussians                      | 13.2.3, A.3                        |
-| Wed Oct 26   | kalman filters                 | 14.4                               |
-| Fri Oct 28   | markov decision processes      | 17.1, 17.1.1                       |
-| Mon Oct 31   | bellman equations              | 17.1.2                             |
-| Wed Nov 2    | value iteration                | 17.2.1                             |
-| Fri Nov 4    | passive reinforcement learning | 22.1                               |                                    
-| Mon Nov 7    | active reinforcement learning  | 22.2                               |
-| Wed Nov 9    | ethics                         |                                    |
-| Fri Nov 11   | ethics                         |                                    |
-| Mon Nov 14   | exam 2                         |                                    |                                    
-| Wed Nov 16   | exam 2 review                  |                                    |                                    
-| Fri Nov 18   | truth table inference          | 7.1, 7.2                           |
-| Mon Nov 21   | language and semantics         | 7.3                                |
-| Wed Nov 23   | thanksgiving break             |                                    |
-| Fri Nov 25   | thanksgiving break             |                                    |
-| Mon Nov 28   | propositional logic            | 7.4                                |                                    
-| Wed Nov 30   | propositional inference        | 7.5.0, 7.5.1                       |                                    
-| Fri Dec 2    | resolution                     | 7.5.2                              |
-| Mon Dec 5    | dpll                           | 7.6.1, 7.6.3                       |
-| Wed Dec 5    | logic and probability          | TBD                                |                                    
-| Fri Dec 9    | exam 3                         |                                    |
+| Fri Feb 3    | course info session            |                                    |
+| Mon Feb 6    | search spaces                  | 3.1, 3.2, 3.3.1 - 3.3.3            |
+| Wed Feb 8    | breadth-first search           | 3.4.1                              |
+| Fri Feb 10   | UCS and DFS                    | 3.4.2, 3.4.3                       |
+| Mon Feb 13   | analysis of search and IDS     | 3.3.4, 3.4.4                       |
+| Wed Feb 15   | heuristic search               | 3.5.1, 3.5.2                       |
+| Mon Feb 20   | heuristics                     | 3.6                                |
+| Wed Feb 22   | minimax                        | 5.1, 5.2, 5.3                      |
+| Fri Feb 24   | expectimax                     | 5.5                                |
+| Mon Feb 27   | alpha-beta pruning             |                                    |
+| Wed Mar 1    | TBD                            |                                    |
+| Fri Mar 3    | exam 1                         |                                    |
+| Mon Mar 6    | exam 1 review                  |                                    |
+| Wed Mar 8    | probability                    | 12.1 - 12.5                        |
+| Fri Mar 10   | bayesian networks              | 13.1, 13.2.1, 13.2.2, 13.2.4       |
+| Mon Mar 13   | variable elimination           | 13.3.1, 13.3.2                     |
+| Wed Mar 15   | complexity of inference        | 13.3.3                             |
+| Fri Mar 17   | belief propagation             |                                    |
+| Mon Apr 3    | gaussians                      | 13.2.3, A.3                        |
+| Wed Apr 5    | kalman filters                 | 14.4                               |
+| Fri Apr 7    | markov decision processes      | 17.1, 17.1.1                       |
+| Mon Apr 10   | value iteration                | 17.2.1                             |
+| Wed Apr 12   | passive reinforcement learning | 22.1                               |
+| Fri Apr 14   | active reinforcement learning  | 22.2                               |
+| Mon Apr 17   | ethics                         |                                    |
+| Wed Apr 19   | exam 2                         |                                    |   
+| Fri Apr 21   | exam 2 review                  |                                    |
+| Mon Apr 24   | truth table inference          | 7.1, 7.2                           |
+| Wed Apr 26   | propositional logic            | 7.3                                |
+| Fri Apr 28   | entailment and satisfiability  | 7.4                                |
+| Mon May 1    | search-based sat solvers       | 7.5.0, 7.5.1                       |
+| Wed May 3    | resolution                     | 7.5.2                              |
+| Fri May 5    | dpll                           | 7.6.1, 7.6.3                       |
+| Mon May 8    | binary decision diagrams       |                                    |
+| Wed May 10   | first-order logic              |                                    |
+| Fri May 12   | exam 3                         |                                    |
 
 
 ### Reading Assignments

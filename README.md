@@ -16,8 +16,6 @@ The textbook has a Kindle version.
 
 **Website:** [http://markandrewhopkins.com/csci-373-artificial-intelligence/](http://markandrewhopkins.com/csci-373-artificial-intelligence/)
 
-**Course Information Sheet**:  [here](https://docs.google.com/document/d/1umo-FwRfV2CT3SBygofSQ59Obb-n7zAU5SH1Zr4T8PQ/edit?usp=sharing)
-
 
 ### Overview
 
@@ -43,22 +41,11 @@ project about search-based reasoning, one project about probabilistic reasoning,
 project about logical reasoning. 
 
 The projects will be done in groups of two. Each project will be due shortly after the
-end of its corresponding module. In addition to submitting your project code online, each group 
-will meet with me for 15 minutes, during which you will present your design and answer
-questions about the design decisions that you made.
+end of its corresponding module. 
 
-**Exams (30%, 10% each):** There will be three exams during the course. Each exam is weighted
-equally and covers one module of the course. In other words, there will be one exam about 
-search-based reasoning, one exam about probabilistic reasoning, and one exam about logical
-reasoning.
+**Final Exam (30%):** The final exam will cover all three modules of the course: search-based reasoning, probabilistic reasoning, and logical
+reasoning. This exam will be a timed exam, administered during finals week.
 
-The exams must be done individually, without consulting other students or external resources
-on the Internet. However, you are welcome to consult your course notes and provided course
-materials (including the textbook) while writing the exams. The exams will be designed to
-be completed during a 50-minute class period, and you will be given a free class
-period to complete each exam. However, the exams will be "take-home", and need only be submitted
-sometime before midnight on the day they are assigned. You are free to use as much extra time 
-as you need on the day of the exam.
 
 
 ### Learning Outcomes
